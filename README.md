@@ -1,5 +1,5 @@
 # Добро пожаловать на RustGDPS
-[!INFO] Объединение RusDash X DustGDPS)
+- [!INFO] Объединение RusDash X DustGDPS)
 
 1. Найдите релиз
 <img width="401" height="159" alt="image" src="https://github.com/user-attachments/assets/b5310133-ae37-4d96-9b32-c7b551766194" />
